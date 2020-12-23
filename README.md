@@ -10,6 +10,8 @@
 pip install -r requirments.txt
 ```
 
-2.Change the start path in file
+2.Run the Script with the parameters
 
-3.Run the Script
+```
+python video_length.py -p <Folder Path>
+```
